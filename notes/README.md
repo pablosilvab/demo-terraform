@@ -1,6 +1,6 @@
 # Notes
 
-## Add Kubernetes cluster to GitLab CI
+## Add Kubernetes cluster to GitLab CI
 
 * API URL:
 
