@@ -1,23 +1,5 @@
-# Demo Terraform
-El objetivo de este proyecto es levantar un cluster de Kubernetes utilizando Terraform.
+# Demo Terraform - Kubernetes
 
-# Requerimientos
+El objetivo de este proyecto es levantar instancias de Kubernetes en los distintos proveedores Cloud utilizando Terraform.
 
-* Cuenta en Digital Ocean
-* Generar API Token en Digital Ocean
-* Guardar token en una variable de entorno.
-
-# Comandos 
-
-```
-terraform init
-```
-
-```
-terraform plan
-```
-
-
-```
-terraform apply
-```
+* [Digital Ocean](#digitalocean)
