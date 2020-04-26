@@ -1,6 +1,6 @@
 # Demo Terraform - Kubernetes
 
-El objetivo de este proyecto es levantar instancias de Kubernetes en los distintos proveedores Cloud utilizando Terraform.
+El objetivo de este proyecto es levantar instancias Kubernetes o Servers en los distintos proveedores Cloud utilizando Terraform.
 
 * [Digital Ocean](#digitalocean)
-* [Googke Kubernetes Engine](#google)
+* [Googke Cloud Platform](#google)
