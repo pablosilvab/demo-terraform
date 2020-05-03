@@ -1,4 +1,6 @@
 *.json
-*terraform*
 *.pub
 kubeconfig*
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
